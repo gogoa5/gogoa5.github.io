@@ -907,7 +907,7 @@ pre .javascript .function {
   display: inline-block;
   padding: 0 40px;
   color: #fff;
-  background: #222;
+  background: #f43;
   border-bottom: none;
 }
 .brand:hover {
@@ -994,17 +994,17 @@ pre .javascript .function {
 }
 .menu .menu-item a {
   display: block;
-  font-size: 13px;
+  font-size: 16px;
   text-transform: capitalize;
   line-height: inherit;
-  border-bottom: 1px solid transparent;
+  border-bottom: 2px solid transparent;
   transition-property: border-color;
   transition-duration: 0.2s;
   transition-timing-function: ease-in-out;
   transition-delay: 0s;
 }
 .menu .menu-item a:hover {
-  border-bottom-color: #222;
+  border-bottom-color: #f43;
 }
 .menu .menu-item .fa {
   margin-right: 5px;
@@ -1241,7 +1241,7 @@ pre .javascript .function {
 .posts-expand .post-title-link {
   display: inline-block;
   position: relative;
-  color: #555;
+  color: #f43;
   border-bottom: none;
   line-height: 1.2;
   vertical-align: top;
@@ -1563,7 +1563,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #4fbb7f;
+  background: #bfc303;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2319,7 +2319,7 @@ embed {
 .custom-logo .site-title {
   margin: 10px auto 0;
   font-size: 24px;
-  color: #222;
+  color: #f43;
 }
 .custom-logo .site-title a {
   border: none;
@@ -2339,7 +2339,7 @@ embed {
     width: 100%;
     padding: 0;
     background: #fff;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #f43;
   }
 }
 @media (max-width: 767px) {
